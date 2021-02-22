@@ -14,3 +14,19 @@ Indtil videre har vi planlagt:
 - Database med Sqlite3
 - CSS
 - Deploy
+
+## Start flask
+
+Mac og Linux:
+
+```
+$ export FLASK_APP=hello.py
+$ flask run
+```
+
+Windows:
+
+```
+$ export FLASK_APP=hello.py
+$ python -m flask run
+```
